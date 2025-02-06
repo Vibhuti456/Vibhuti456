@@ -10,8 +10,5 @@ Passionate about optimizing workflows, automating deployments, and enhancing sys
 - 📦 Containers: Docker, Kubernetes
 - 🔹 **Scripting:** Python, Shell Scripting
 
-### 📊 **GitHub Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-
 📫 **Let's connect!**  
 [LinkedIn](https://linkedin.com/in/vibhuti-jain-307082203)  
